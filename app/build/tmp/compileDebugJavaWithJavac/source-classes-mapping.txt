@@ -1,0 +1,6 @@
+com/msotor/listview02/BuildConfig.java
+ com.msotor.listview02.BuildConfig
+com/msotor/listview02/Usuario.java
+ com.msotor.listview02.Usuario
+com/msotor/listview02/MainActivity.java
+ com.msotor.listview02.MainActivity
